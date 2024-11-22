@@ -1,0 +1,12 @@
+export const projectColors = {
+    'ENABLED AUTONOMY': '#6495ED',
+    'WEB DEV': '#4d644c',
+    'HOUSING': '#8e4c1c',
+    'WEB SEARCH': '#e38f1b',
+    'WEATHER': '#317987',
+    'AIR TRAVEL': '#B57EDC',
+    'MACRO ECO': '#f2c044', 
+    'FILM PREFERENCES': '#954535',
+    'NEURAL BAKING': '#a97d4b',
+    'PROMO TRACKING': '#C5B358',
+  };
